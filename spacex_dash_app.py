@@ -81,7 +81,7 @@ def get_scatter_chart(entered_site, slider_range):
         return fig
     else:
         fig = px.scatter(filtered_df[mask], x="Payload Mass (kg)", y="class",
-        title='Correlation between Payload and Success for Site {0}'.format(entered_site)),
+        title='Correlation between Payload and Success for Site {0}'.format(entered_site),
         color="Booster Version Category")
         return fig
 
