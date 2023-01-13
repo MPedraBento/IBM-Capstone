@@ -1,20 +1,22 @@
 # Winning Space Race with Data Science
-#### IBM Capstone
+#### IBM Capstone - IBM Data Science Professional Certificate
 
-## Abstract
-
-
-## Introduction
+## 1. Abstract
 
 
-## Methodology
+## 2. Introduction
+
+
+## 3. Methodology
 
 
 
-## Results
+## 4. Results
 
 
 
 
 ## Appendix
-### Interactive Folium
+### A. Interactive Folium
+* We provided a folder with a .html file which can be downloaded. With it, you can interact with the maps.
+* Alternatively, we provide a link [Interactive Folium](https://nbviewer.org/github/MPedraBento/IBM-Capstone/blob/master/lab_jupyter_launch_site_location.ipynb) which can be used to render the maps as well.
