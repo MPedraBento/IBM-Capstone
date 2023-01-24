@@ -3,11 +3,11 @@
 
 ## 1. Abstract
 
-SpaceY is competing with SpaceX and assessing viability of its product. Before moving to research SpaceY makes use of SpaceX public data to study the success and failures of landings.
+SpaceY is competing with SpaceX and assessing the viability of its product. Before moving to research SpaceY makes use of SpaceX public data to study the success and failures of landings.
 
 ## 2. Introduction
 
-With SpaceX API and Wikipedia it is possible to collect data regarding the outcome of missions and landings of SpaceX boosters. Going through data using SQL and the Pandas package in Python, the data is organized and missing values are processed. With data visualization techniques such as Matplotlib, Seaborn, Folium and Plotly Dash, conclusions are made regarding the features that make a successful landing. With Machine Learning, five models predict if a landing will be a success. The most impactful features are extracted from the best estimator. 
+With SpaceX API and Wikipedia, it is possible to collect data regarding the outcome of missions and landings of SpaceX boosters. By going through the data using SQL and the Pandas package in Python, the data is organized and missing values are processed. With data visualization techniques such as Matplotlib, Seaborn, Folium and Plotly Dash, conclusions are made regarding the features that make a successful landing. With Machine Learning, five models predict if a landing will be a success. The most impactful features are extracted from the best estimator. 
 
 
 ## Appendix
